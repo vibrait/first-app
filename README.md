@@ -1,2 +1,2 @@
 # first-app
-Primera App con el FullStack
+Primera App con FullStack
